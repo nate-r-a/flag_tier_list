@@ -1,0 +1,40 @@
+.flag {
+  max-width: 100px;
+  margin: 10px;
+}
+
+.img-thumbnail {
+  padding: 2px !important;
+  /* background-color: rgb(133, 133, 133) !important;
+  border: 1px solid #dee2e6 !important; */
+}
+
+.row {
+  align-items: center;
+}
+
+.bs-tooltip-bottom {
+  top: 0px !important;
+}
+
+h6 {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px black;
+  text-decoration: none;
+  overflow: visible;
+  white-space: nowrap;
+}
+
+body {
+  background-color: rgb(22, 23, 40) !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white !important;
+}
